@@ -1,5 +1,5 @@
 {
-    "name": "axute/paerius",
+    "name": "zkc226/paerius",
     "description": "Bundles your vendor directory into a PHP Archive (PHAR)",
     "version": "0.9",
     "license": "MIT",
